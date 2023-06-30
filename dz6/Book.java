@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Arrays;
 
-public class Notebook {
+public class Book {
     //1. Возможные варианты ОС, цвета, размера ОЗУ и HDD
     public static enum OS {
         Windows,
